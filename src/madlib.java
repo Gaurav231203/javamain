@@ -33,8 +33,7 @@ public class madlib {
         System.out.println( noun1  +  " was  " + adjective2 + " and " + verb1 + " !");
         System.out.println("i was " + adjective3 + " !");
 
-
-
+        scanner.close();
     }
 
 
