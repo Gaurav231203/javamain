@@ -24,7 +24,8 @@ public class ShopingCartProg {
 
          totalPrice = price * quantatiy ;
 
-        System.out.print("total amount will be "+  currancy +  totalPrice);
+        System.out.print("You bought " + quantatiy + " " + item + "/s" );
+        System.out.println("total amount will be "+  currancy +  totalPrice);
 
 
         scanner.close();
